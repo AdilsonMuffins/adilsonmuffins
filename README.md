@@ -17,8 +17,7 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e visuais impres
   <img src="https://img.shields.io/badge/Sketchware-blue?style=for-the-badge
   " alt="Sketchware" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-purple?style=for-the-badge&logo=adobexd
-  " alt="Adobe XD" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-purple?style=for-the-badge&logo=adobexd" alt="Adobe XD" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
   <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase
