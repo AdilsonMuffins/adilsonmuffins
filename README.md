@@ -7,7 +7,7 @@
 
 ### 🚀 Dev Android | Web | Designer Gráfico | Designer UX/UI
 
-Sou um desenvolvedor apaixonado por criar soluções inovadoras e visuais impressionantes! Com experiência em **Sketchware, Java, Kotlin, HTML, CSS, JavaScript, Adobe XD e Firebase**, estou sempre pronto para enfrentar novos desafios e contribuir com projetos que fazem a diferença.
+Sou desenvolvedor e designer, comprometido em criar soluções inovadoras e visuais marcantes. Sempre pronto para enfrentar novos desafios, busco agregar valor a projetos que realmente fazem a diferença.
 
 
 
@@ -42,30 +42,26 @@ Sou um desenvolvedor apaixonado por criar soluções inovadoras e visuais impres
 ## 📈 Projetos Destacados
 
 - **Muffins Store**: Uma loja online inovadora para acessórios e muito mais. [Visite o site](https://muffinsstore-mz.web.app)
-- **Hack on Wednesdays**: Iniciativa semanal para resolver desafios de hacking com uma comunidade engajada.
-- **Identidades Visuais**: Desenvolvimento de marcas e identidades visuais para freelancers e empresas.
+- **Muffins TV**: é uma plataforma de streaming em desenvolvimento, site ainda está em construção e estará disponível em breve.
+- **Identidades Visuais**: Desenvolvimento de marcas e identidades visuais para freelancers e empresas. [Visite o site](https://muffinsstore-mz.web.app)
 
 ---
 
-## 🌟 O que eu posso fazer por você
-
-- **Desenvolvimento de Aplicativos e Sites**: De simples landing pages a complexos sistemas web.
-- **Design de Interfaces**: Criação de layouts modernos e responsivos.
-- **Consultoria de Tecnologia**: Ajuda com integrações e automações para otimizar processos.
-
----
 
 ## 📫 Contato
 
-- **LinkedIn**: [linkedin.com/in/adilson-muffins](#) 
-- **Email**: adilson@example.com
-- **Instagram**: [@muffinsstore_mz](https://instagram.com/muffinsstore_mz)
-- **Portfólio**: [adilson-muffins.web.app](https://adilson-muffins.web.app)
 
-### 📅 Disponibilidade
-
-Disponível para reuniões das 19h às 20h de segunda a sexta-feira. Sábados e domingos, horário livre!
+<a href="mailto:adilsonmuffins@gmail.com" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=adilsonmuffins@gmail.com" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/adilsonmuffins" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adilsonmuffins" alt="LinkedIn"/></a>
+  <a href="https://api.whatsapp.com/send?phone=258847554342" title="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=258847554342" alt="WhatsApp"/></a>
+  <a href="https://www.facebook.com/adilsonmuffins" title="Facebook">
+  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/adilsonmuffins" alt="Facebook"/></a>
+  <a href="https://www.instagram.com/adilson_muffins" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/adilson_muffins" alt="Instagram"/></a>
+<a href="https://adilson-muffins.web.app/" title="Portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&labelColor=000000&logo=web&logoColor=white" alt="Portfolio"/>
 
 ---
-
-Obrigado pela visita! Vamos colaborar? 😄🚀
