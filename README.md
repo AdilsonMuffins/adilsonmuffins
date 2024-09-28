@@ -2,9 +2,7 @@
 
 # 👋 Olá, Eu sou Adilson Muffins!
 
-<img src="img/DALL·E 2024-08-29 07.46.24 - Create a 3D image of a 19-year-old programmer with short curly hair and slightly dark brown skin tone. He is wearing a red hooded sweatshirt with a wh.webp" alt="ilustração de um personagem programando" min-width="400px" max-width="400px" width="300px" align="right">
-
-
+<img src="img/muffins.jpg" alt="ilustração de um personagem programando" min-width="400px" max-width="400px" width="300px" align="right">
 ### 🚀 Dev Android | Web | Designer Gráfico | Designer UX/UI
 
 Sou desenvolvedor e designer, comprometido em criar soluções inovadoras e visuais marcantes. Sempre pronto para enfrentar novos desafios, busco agregar valor a projetos que realmente fazem a diferença.
