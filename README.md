@@ -42,7 +42,7 @@ Sou desenvolvedor e designer, comprometido em criar soluções inovadoras e visu
 ## 📈 Projetos Destacados
 
 - **Muffins Store**: Uma loja online inovadora para acessórios e muito mais. [Visite o site](https://muffinsstore-mz.web.app)
-- **Muffins TV**: é uma plataforma de streaming em desenvolvimento, site ainda está em construção e estará disponível em breve.
+- **Muffins TV**: é uma plataforma de streaming em desenvolvimento, site ainda está em construção e estará disponível em breve. [Visite o site](https://www.muffinstv.wuaze.com)
 - **Identidades Visuais**: Desenvolvimento de marcas e identidades visuais para freelancers e empresas. [Visite o site](https://muffinsstore-mz.web.app)
 
 ---
