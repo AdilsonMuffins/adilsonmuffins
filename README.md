@@ -2,7 +2,7 @@
 
 # 👋 Olá, Eu sou Adilson Muffins!
 
-<img src="img/muffins.jpg" alt="ilustração de um personagem programando" min-width="400px" max-width="400px" width="300px" align="right">
+<img src="img/filee.png" alt="ilustração de um personagem programando" min-width="400px" max-width="400px" width="300px" align="right">
 ### 🚀 Dev Android | Web | Designer Gráfico | Designer UX/UI
 
 Sou desenvolvedor e designer, comprometido em criar soluções inovadoras e visuais marcantes. Sempre pronto para enfrentar novos desafios, busco agregar valor a projetos que realmente fazem a diferença.
