@@ -3,7 +3,7 @@
 # 👋 Olá, Eu sou Adilson Muffins!
 
 <img src="img/filee.png" alt="ilustração de um personagem programando" min-width="400px" max-width="400px" width="300px" align="right">
-### 🚀 Dev Android | Web | Designer Gráfico | Designer UX/UI
+### 🚀 Desenvolvedor Web | Designer Gráfico | Designer UX/UI
 
 Sou desenvolvedor e designer, comprometido em criar soluções inovadoras e visuais marcantes. Sempre pronto para enfrentar novos desafios, busco agregar valor a projetos que realmente fazem a diferença.
 
@@ -31,7 +31,7 @@ Sou desenvolvedor e designer, comprometido em criar soluções inovadoras e visu
 
 
 
-- **Desenvolvimento Android**: Especialista em Sketchware, Java e Kotlin.
+
 - **Desenvolvimento Web**: HTML, CSS, JavaScript, e integração com Firebase.
 - **Design Gráfico & UX/UI**: Criação de interfaces intuitivas e visuais cativantes com Adobe XD.
 - **Automação e Integração**: Uso de ferramentas como Kommo para integrar sistemas com WhatsApp.
