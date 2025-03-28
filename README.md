@@ -19,6 +19,9 @@ Sou desenvolvedor e designer, comprometido em criar soluções inovadoras e visu
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase" alt="Firebase" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia&logoColor=white" alt="Insomnia" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white" alt="XAMPP" />
 </p>
 
 ---
@@ -27,8 +30,6 @@ Sou desenvolvedor e designer, comprometido em criar soluções inovadoras e visu
 
 - **Desenvolvimento Web**: HTML, CSS, JavaScript, integração com Firebase e MongoDB.
 - **Design Gráfico & UX/UI**: Criação de interfaces intuitivas e visuais cativantes com Adobe XD e Figma.
-- **Automação e Integração**: Uso de ferramentas como Kommo para integrar sistemas com WhatsApp.
-- **Desenvolvimento Mobile**: Aplicações Android usando Sketchware e Firebase.
 - **Back-end**: APIs REST usando Node.js e Express.js.
 - **SEO & Otimização**: Implementação de estratégias para melhorar o ranqueamento em mecanismos de busca.
 
@@ -37,7 +38,7 @@ Sou desenvolvedor e designer, comprometido em criar soluções inovadoras e visu
 ## 📈 Projetos Destacados
 
 - **Muffins Store**: Uma loja online inovadora para acessórios e muito mais. [Visite o site](https://muffinsstore-mz.web.app)
-- **Muffins TV**: Plataforma de streaming em desenvolvimento. [Visite o site](https://www.muffinstv.com)
+- **Muffins TV**: Plataforma de streaming para filmes e séries. [Visite o site](https://www.muffinstv.com)
 - **Identidades Visuais & UI Design**: Desenvolvimento de marcas, identidades visuais e interfaces intuitivas para freelancers e empresas. [Visite o site](https://www.behance.net/adilson_muffins)
 
 ---
