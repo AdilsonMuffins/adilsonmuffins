@@ -1,14 +1,9 @@
-
-
 # 👋 Olá, Eu sou Adilson Muffins!
 
 <img src="img/filee.png" alt="ilustração de um personagem programando" min-width="400px" max-width="400px" width="300px" align="right">
 ### 🚀 Desenvolvedor Web | Designer Gráfico | Designer UX/UI
 
 Sou desenvolvedor e designer, comprometido em criar soluções inovadoras e visuais marcantes. Sempre pronto para enfrentar novos desafios, busco agregar valor a projetos que realmente fazem a diferença.
-
-
-
 
 <h3 align="left">Linguagens & Ferramentas</h3>
 <p align="left">
@@ -19,6 +14,7 @@ Sou desenvolvedor e designer, comprometido em criar soluções inovadoras e visu
   <img src="https://img.shields.io/badge/Sketchware-blue?style=for-the-badge" alt="Sketchware" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Adobe%20XD-purple?style=for-the-badge&logo=adobexd" alt="Adobe XD" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Firebase-yellow?style=for-the-badge&logo=firebase" alt="Firebase" />
@@ -29,38 +25,36 @@ Sou desenvolvedor e designer, comprometido em criar soluções inovadoras e visu
 
 ## 🛠️ Minhas Habilidades
 
-
-
-
-- **Desenvolvimento Web**: HTML, CSS, JavaScript, e integração com Firebase.
-- **Design Gráfico & UX/UI**: Criação de interfaces intuitivas e visuais cativantes com Adobe XD.
+- **Desenvolvimento Web**: HTML, CSS, JavaScript, integração com Firebase e MongoDB.
+- **Design Gráfico & UX/UI**: Criação de interfaces intuitivas e visuais cativantes com Adobe XD e Figma.
 - **Automação e Integração**: Uso de ferramentas como Kommo para integrar sistemas com WhatsApp.
+- **Desenvolvimento Mobile**: Aplicações Android usando Sketchware e Firebase.
+- **Back-end**: APIs REST usando Node.js e Express.js.
+- **SEO & Otimização**: Implementação de estratégias para melhorar o ranqueamento em mecanismos de busca.
 
 ---
 
 ## 📈 Projetos Destacados
 
 - **Muffins Store**: Uma loja online inovadora para acessórios e muito mais. [Visite o site](https://muffinsstore-mz.web.app)
-- **Muffins TV**: é uma plataforma de streaming em desenvolvimento, site ainda está em construção e estará disponível em breve. [Visite o site](https://www.muffinstv.wuaze.com)
-- **Identidades Visuais**: Desenvolvimento de marcas e identidades visuais para freelancers e empresas. [Visite o site](https://muffinsstore-mz.web.app)
+- **Muffins TV**: Plataforma de streaming em desenvolvimento. [Visite o site](https://www.muffinstv.com)
+- **Identidades Visuais & UI Design**: Desenvolvimento de marcas, identidades visuais e interfaces intuitivas para freelancers e empresas. [Visite o site](https://www.behance.net/adilson_muffins)
 
 ---
-
 
 ## 📫 Contato
 
-
 <a href="mailto:adilsonmuffins@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=adilsonmuffins@gmail.com" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/adilsonmuffins" title="LinkedIn">
+<a href="https://www.linkedin.com/in/adilsonmuffins" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adilsonmuffins" alt="LinkedIn"/></a>
-  <a href="https://api.whatsapp.com/send?phone=258847554342" title="WhatsApp">
+<a href="https://api.whatsapp.com/send?phone=258847554342" title="WhatsApp">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=258847554342" alt="WhatsApp"/></a>
-  <a href="https://www.facebook.com/adilsonmuffins" title="Facebook">
+<a href="https://www.facebook.com/adilsonmuffins" title="Facebook">
   <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/adilsonmuffins" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/adilson_muffins" title="Instagram">
+<a href="https://www.instagram.com/adilson_muffins" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/adilson_muffins" alt="Instagram"/></a>
-<a href="https://adilson-muffins.web.app/" title="Portfolio" target="_blank">
-  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&labelColor=000000&logo=web&logoColor=white" alt="Portfolio"/>
-
----
+<a href="https://www.behance.net/adilson_muffins" title="Behance">
+  <img src="https://img.shields.io/badge/-Behance-1769ff?style=flat-square&labelColor=1769ff&logo=behance&logoColor=white&link=https://www.behance.net/adilson_muffins" alt="Behance"/></a>
+<a href="https://adilsonmuffins.space/" title="Portfolio" target="_blank">
+  <img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&labelColor=000000&logo=web&logoColor=white" alt="Portfolio"/></a>
